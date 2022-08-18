@@ -8,6 +8,7 @@ public class MyJavaSpringBootVueApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyJavaSpringBootVueApplication.class, args);
+        System.out.println("master启动成功");
     }
 
 }
