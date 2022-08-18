@@ -13,7 +13,7 @@ public class MyJavaSpringBootVueApplication {
         System.out.println("master启动成功");
         System.out.println("冲突？");
         System.out.println("git@github.com:Hoyoma/MyJavaSpringBootVue.git");
-
+        System.out.println("pull test");
     }
 
 }
